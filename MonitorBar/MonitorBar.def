@@ -1,0 +1,8 @@
+LIBRARY "MonitorBar"
+EXPORTS
+    DllGetClassObject   PRIVATE
+    DllCanUnloadNow     PRIVATE
+    DllRegisterServer   PRIVATE
+    DllUnregisterServer PRIVATE
+	DllIsRegisterServer	PRIVATE
+	DllShowMonitorBar	PRIVATE
