@@ -2,7 +2,7 @@
 ==============
 
 This application is a desk band which monitors the cpu usage, the memory usage
-and the cpu temperature.
+and the cpu temperature in the windows.
 
 The MonitorBar project is the main project.
 The ManageDriverAndDeskBand project is the manager of the MonitorBar.
@@ -31,7 +31,7 @@ unregister the desk band.
 #Monitor Bar
 ==============
 
-这是一个桌面状态栏工具，用于显示CPU使用率、内存使用率和CPU温度。
+这是Windows平台下的一个桌面状态栏工具，用于显示CPU使用率、内存使用率和CPU温度。
 
 此解决方案包含MonitorBar和ManageDriverAndDeskBand两个项目。
 
