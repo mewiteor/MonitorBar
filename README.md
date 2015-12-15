@@ -15,10 +15,10 @@ When move the mouse to the monitor bar,it will show a tooltip which show the
 detailed information.The detailed information includes:
 * Max cpu usage
 * Min cpu usage
-* Three processes of the max cpu usage
+* Top 3 running processes sorted by cpu usage
 * Max memory usage
 * Min memory usage
-* Three processes of the max memory usage
+* Top 3 running processes sorted by memory usage
 * Max cpu temperature
 * Min cpu temperature
 * Each cpu core temperature
