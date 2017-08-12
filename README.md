@@ -1,4 +1,4 @@
-#Monitor Bar
+# Monitor Bar
 ==============
 
 This application is a desk band which monitors the cpu usage, the memory usage
@@ -28,7 +28,7 @@ Right click monitor bar,you can reset the monitor bar or close the monitor bar.
 The ManageDriverAndDeskBand is used to install/uninstall the driver and register/
 unregister the desk band.
 
-#Monitor Bar
+# Monitor Bar
 ==============
 
 这是Windows平台下的一个桌面状态栏工具，用于显示CPU使用率、内存使用率和CPU温度。
